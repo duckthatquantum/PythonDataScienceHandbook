@@ -11,6 +11,8 @@ This repository contains the entire [Python Data Science Handbook](http://shop.o
 
 - Read the book in its entirety online at https://jakevdp.github.io/PythonDataScienceHandbook/
 
+Updated Version being worked on as of Jan. 2019 available at: https://github.com/duckthatquantum/PythonDataScienceHandbook
+
 - Run the code using the Jupyter notebooks available in this repository's [notebooks](notebooks) directory.
 
 - Launch executable versions of these notebooks using [Google Colab](http://colab.research.google.com): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
